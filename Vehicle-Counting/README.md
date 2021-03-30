@@ -2,7 +2,7 @@
 
 ## Setup
 - Install Python 3 on your machine. 
-- Clone this repo 
+- Clone this repo 'https://github.com/Aravind-11/Vehicle_count.git'
 - Run `pip install -r requirements.txt` to install dependencies.
 - Run main.ipynb file(alternate implementations in *0_Vehicle_Counting.py* and *1_Vehicle_Counting.py*).
 
